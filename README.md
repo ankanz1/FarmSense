@@ -15,7 +15,7 @@ FarmSense is our solution—a digital platform where farmers can:
 <br>
 5.  Even connect with community support and market trends to make data-driven decisions.
 <br>
-
+<hr>
 Our design is mobile-first and intuitive, making it easily accessible to rural users. We also focus on global inclusivity—connecting small farms from diverse geographies with a larger marketplace, while ensuring fair pricing and sustainable practices.
 <br>
 Farmers can list their products—be it fresh produce, grains, or handmade goods—and consumers or businesses can directly purchase from them. We also offer an AI-powered support system that guides farmers on best practices, weather updates, and market trends.
