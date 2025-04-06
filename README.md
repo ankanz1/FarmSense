@@ -2,6 +2,7 @@
 <br>
 Today, millions of small-scale farmers face critical challenges—unpredictable weather due to climate change, limited access to quality seeds, fertilizers, and credit, and low yields due to outdated techniques and poor soil health. This leads to poverty cycles, food insecurity, and underutilization of their true potential.
 <br>
+<hr>
 FarmSense is our solution—a digital platform where farmers can:
 <br>
  1. List and sell their produce directly to consumers and businesses.
