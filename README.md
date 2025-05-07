@@ -95,9 +95,6 @@ FarmSense/
 └── styles/            # Global styles
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ## 🌟 Future Roadmap
 
@@ -109,8 +106,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ## 📞 Contact
 
 - **Website:** [farmsense.io](https://farmsense-vert.vercel.app/)
-- **Email:** contact@farmsense.io
-- **Twitter:** [@FarmSense](https://twitter.com/FarmSenseAI)
+- **Email:** [contact@farmsense.io](ankanmukherjee011@gmail.com)
+- **Twitter:** [@FarmSense](https://x.com/_ankz01)
 
 ---
 
