@@ -85,8 +85,8 @@ Visit `http://localhost:3000` to see the application.
 
 ```
 FarmSense/
-├── app/                 # Next.js app directory
-├── components/         # React components
+├── app/               # Next.js app directory
+├── components/        # React components
 │   ├── ui/            # Reusable UI components
 │   └── sections/      # Page sections
 ├── hooks/             # Custom React hooks
@@ -99,23 +99,18 @@ FarmSense/
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🌟 Future Roadmap
 
 - [ ] Integration with IoT devices
 - [ ] Advanced machine learning models
 - [ ] Mobile application
 - [ ] Blockchain-based supply chain tracking
-- [ ] Multi-language support
 
 ## 📞 Contact
 
-- **Website:** [farmsense.ai](https://farmsense.ai)
-- **Email:** contact@farmsense.ai
-- **Twitter:** [@FarmSenseAI](https://twitter.com/FarmSenseAI)
+- **Website:** [farmsense.io](https://farmsense-vert.vercel.app/)
+- **Email:** contact@farmsense.io
+- **Twitter:** [@FarmSense](https://twitter.com/FarmSenseAI)
 
 ---
 
