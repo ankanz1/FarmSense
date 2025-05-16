@@ -10,6 +10,7 @@ import { CropManagementSection } from "@/components/crop-management-section"
 import { ResourcesSection } from "@/components/resources-section"
 import { MarketAnalysisSection } from "@/components/market-analysis-section"
 import { ContactSection } from "@/components/contact-section"
+import { FeedbackForm } from "@/components/feedback-form"
 import { Footer } from "@/components/footer"
 
 export default function Home() {
@@ -37,6 +38,7 @@ export default function Home() {
         {activeTab === "market-analysis" && <MarketAnalysisSection />}
 
         <ContactSection />
+        <FeedbackForm />
       </main>
       <Footer />
     </div>
